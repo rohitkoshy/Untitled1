@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 40f6a0c39724e134b87fd637df813187
+timeCreated: 1469809614
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - guiSkin: {fileID: 11400000, guid: 9298e1858dc36a0479c55f7a57f90892, type: 2}
+  - createIcon: {instanceID: 0}
+  - erodeIcon: {instanceID: 0}
+  - textureIcon: {instanceID: 0}
+  - mooreIcon: {instanceID: 0}
+  - vonNeumannIcon: {instanceID: 0}
+  - mountainsIcon: {instanceID: 0}
+  - hillsIcon: {instanceID: 0}
+  - plateausIcon: {instanceID: 0}
+  - defaultTexture: {instanceID: 0}
+  - tempTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
